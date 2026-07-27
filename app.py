@@ -146,10 +146,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="teal", neutral_hue="slate")) as
     gr.Markdown("""
     ---
     ### 👨‍💻 About the Developer
-    **Created by:** Chandan Saroj (MERN Stack Developer & SDE)
-    * **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL_HERE)
-    * **GitHub:** [Check out my projects](YOUR_GITHUB_URL_HERE)
-    """)
+    **Created by:** Pavni Jain
 
     # Wire up the logic exactly in the order of the dataset
     input_components = [
